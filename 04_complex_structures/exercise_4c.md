@@ -16,8 +16,10 @@
 1. Instantiate an array of scores 
     - The array should have at least 5 elements of type `float64`
 
+
 2. Write a function that calculates and returns the average score (also a float)
     - Use the `range` keyword
+    range iterates over elements in a variety of data structures. Let’s see how to use range with some of the data structures we’ve already learned.
 
 ### Part 2
 
